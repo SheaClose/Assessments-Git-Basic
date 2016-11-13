@@ -5,7 +5,7 @@ Test your basic Git skills and knowledge
 
 ##git features
 True or False:
- * git is centralized, so you must have a connection to your remote repository in order to look at previous commits
+ * git is centralized, so you must have a connection to your remote repository in order to look at previous commits 
  * git uses "branches" to allow for and manage diverging code
  * git supports merging of branches
  * git keeps a history of commits and commit authors
@@ -40,7 +40,7 @@ When would you fork a GitHub repository?
  * If you want to pull in changes from the original repository
  * All of the above
  * None of the above
- 
+
 Which are correct differences between "cloning" and "forking" a repository?
  * A clone allows you to work (pull, push) on code without disrupting the original repo.
  * When you fork the repository, it retains a reference to the original repository for pulling in "upstream" changes.
